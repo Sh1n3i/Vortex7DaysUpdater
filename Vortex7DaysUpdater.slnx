@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Updater/Updater.vcxproj" Id="e0249a92-edcf-4721-995a-6cef86bdc417" />
+</Solution>
